@@ -8,7 +8,7 @@ A Roommate Finder Web App Designed by and for University Students
 
 ### Backend Developer (2) 
 - Kali Olmsted
-- Claire 
+- Claire Kim
 
 ### Frontend Developer (2)
 - Olivia 
