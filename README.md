@@ -8,10 +8,10 @@ A Roommate Finder Web App Designed by and for University Students
 
 ### Backend Developer (2) 
 - Kali Olmsted
-- [Your Name Here] 
+- Claire 
 
 ### Frontend Developer (2)
 - Olivia 
-- [Your Name Here] 
+- Aria 
 
 
