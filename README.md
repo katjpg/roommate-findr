@@ -11,7 +11,7 @@ A Roommate Finder Web App Designed by and for University Students
 - [Your Name Here] 
 
 ### Frontend Developer (2)
-- [Your Name Here] 
+- Olivia 
 - [Your Name Here] 
 
 
